@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anushkaaThapar
-- I'm a computer science student at Thapar Institute of Engineering Technology. 
+- I'm a Computer Science student at Thapar Institute of Engineering Technology. 
 - 🌱 I’m currently learning source code management.
 - 📫 How to reach me through abansal3_be22@thapar.edu 
 - 😄 Pronoun: She 
